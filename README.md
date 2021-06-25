@@ -239,25 +239,9 @@ Bag-report – это документ, описывающий ситуацию 
 
 ### 3.2 Инструкция по эксплуатации
 
-![](RackMultipart20210625-4-ovnsv_html_199f2d8a861f6de6.gif)
+#### 3.2.1 Содержание программы (Рисунок 3.1):
 
-2
-
-3.2.1 Содержание программы (Рисунок 3.1):
-
-![](RackMultipart20210625-4-ovnsv_html_7168817fba81bd56.gif) ![](RackMultipart20210625-4-ovnsv_html_632bd74c592e1884.gif) ![](RackMultipart20210625-4-ovnsv_html_ad3ea3bab3f8fce7.gif) ![](RackMultipart20210625-4-ovnsv_html_e9368368cea3ebaf.gif) ![](RackMultipart20210625-4-ovnsv_html_49cb059ab5863453.gif) ![](RackMultipart20210625-4-ovnsv_html_199f2d8a861f6de6.gif) ![](RackMultipart20210625-4-ovnsv_html_199f2d8a861f6de6.gif) ![](RackMultipart20210625-4-ovnsv_html_199f2d8a861f6de6.gif) ![](RackMultipart20210625-4-ovnsv_html_199f2d8a861f6de6.gif) ![](RackMultipart20210625-4-ovnsv_html_199f2d8a861f6de6.gif) ![](RackMultipart20210625-4-ovnsv_html_ffab16572d800cdd.gif)
-
-1
-
-3 ![](RackMultipart20210625-4-ovnsv_html_5ea71994df577f18.jpg)
-
-5 ![](RackMultipart20210625-4-ovnsv_html_92029037a38efbfd.jpg) ![](RackMultipart20210625-4-ovnsv_html_92029037a38efbfd.jpg) ![](RackMultipart20210625-4-ovnsv_html_5ea71994df577f18.jpg)
-
-4 ![](RackMultipart20210625-4-ovnsv_html_92029037a38efbfd.jpg) ![](RackMultipart20210625-4-ovnsv_html_92029037a38efbfd.jpg) ![](RackMultipart20210625-4-ovnsv_html_5ea71994df577f18.jpg)
-
-6 ![](RackMultipart20210625-4-ovnsv_html_92029037a38efbfd.jpg) ![](RackMultipart20210625-4-ovnsv_html_92029037a38efbfd.jpg) ![](RackMultipart20210625-4-ovnsv_html_5ea71994df577f18.jpg)
-
- ![](RackMultipart20210625-4-ovnsv_html_e05317faa0d5132e.png)
+![](https://github.com/fmanakhov/perfomans_monitor/blob/main/pic/image021.png)
 
 Рисунок 3.1 – Интерфейс программы
 
@@ -267,6 +251,6 @@ Bag-report – это документ, описывающий ситуацию 
 4. Датчики, отслеживающие в реальном времени выбранного компонента компьютера;
 5. График, отслеживающие в реальном времени выбранного компонента компьютера;
 
-3.2.2 Работа с программой
+#### 3.2.2 Работа с программой
 
 После запуска программы, вы можете выбрать нужную вам компонент компьютера для отслеживания за нею через кнопки навигации по разделам (1). После выбора и открытия нужного вами раздела появится окно с выбранным компонентом компьютера, в ней будут выведены характеристики (3), датчики (4) и график (5). Датчики и график выводят значения в реальном времени. Можете запускать несколько окошек с компонентами компьютера для удобного отслеживание за состоянием компьютера.
