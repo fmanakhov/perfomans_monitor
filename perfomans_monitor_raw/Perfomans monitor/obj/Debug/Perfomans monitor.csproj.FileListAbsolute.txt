@@ -1,0 +1,39 @@
+C:\Users\fmanakhov\Desktop\Perfomans monitor\Perfomans monitor\bin\Debug\Perfomans monitor.exe.config
+C:\Users\fmanakhov\Desktop\Perfomans monitor\Perfomans monitor\bin\Debug\Perfomans monitor.exe
+C:\Users\fmanakhov\Desktop\Perfomans monitor\Perfomans monitor\bin\Debug\Perfomans monitor.pdb
+C:\Users\fmanakhov\Desktop\Perfomans monitor\Perfomans monitor\obj\Debug\Perfomans monitor.csprojAssemblyReference.cache
+C:\Users\fmanakhov\Desktop\Perfomans monitor\Perfomans monitor\obj\Debug\Perfomans_monitor.Properties.Resources.resources
+C:\Users\fmanakhov\Desktop\Perfomans monitor\Perfomans monitor\obj\Debug\Perfomans monitor.csproj.GenerateResource.cache
+C:\Users\fmanakhov\Desktop\Perfomans monitor\Perfomans monitor\obj\Debug\Perfomans monitor.csproj.CoreCompileInputs.cache
+C:\Users\fmanakhov\Desktop\Perfomans monitor\Perfomans monitor\obj\Debug\Perfomans monitor.exe
+C:\Users\fmanakhov\Desktop\Perfomans monitor\Perfomans monitor\obj\Debug\Perfomans monitor.pdb
+C:\Users\fmanakhov\Desktop\Perfomans monitor\Perfomans monitor\obj\Debug\Perfomans_monitor.MainForm.resources
+C:\Users\fmanakhov\Desktop\Perfomans monitor\Perfomans monitor\bin\Debug\ja-JP\Perfomans monitor.resources.dll
+C:\Users\fmanakhov\Desktop\Perfomans monitor\Perfomans monitor\obj\Debug\Perfomans_monitor.MainForm.ja-JP.resources
+C:\Users\fmanakhov\Desktop\Perfomans monitor\Perfomans monitor\obj\Debug\ja-JP\Perfomans monitor.resources.dll
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\obj\Debug\Perfomans monitor.csprojAssemblyReference.cache
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\obj\Debug\Perfomans_monitor.MainForm.resources
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\obj\Debug\Perfomans_monitor.MainForm.ja-JP.resources
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\obj\Debug\Perfomans monitor.csproj.GenerateResource.cache
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\obj\Debug\Perfomans monitor.csproj.CoreCompileInputs.cache
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\obj\Debug\Perfomans_monitor.InfoForm.resources
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\obj\Debug\Perfomans_monitor.InfoProgramForm.resources
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\obj\Debug\Perfomans_monitor.CPUForm.resources
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\obj\Debug\Perfomans_monitor.DisksForm.resources
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\obj\Debug\Perfomans_monitor.RAMForm.resources
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\bin\Debug\OpenHardwareMonitorLib.dll
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\obj\Debug\Perfomans monitor.csproj.CopyComplete
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\obj\Debug\Perfomans_monitor.GPUForm2.resources
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\bin\Debug\Performance monitor.exe.config
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\bin\Debug\Performance monitor.exe.manifest
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\bin\Debug\Performance monitor.application
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\bin\Debug\Performance monitor.exe
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\bin\Debug\Performance monitor.pdb
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\bin\Debug\ja-JP\Performance monitor.resources.dll
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\obj\Debug\Performance_monitor.Properties.Resources.resources
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\obj\Debug\ja-JP\Performance monitor.resources.dll
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\obj\Debug\Performance monitor.TrustInfo.xml
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\obj\Debug\Performance monitor.exe.manifest
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\obj\Debug\Performance monitor.application
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\obj\Debug\Performance monitor.exe
+H:\fmanakhov\КИУ\3 курс\ОТЧЁТЫ\ПМ.02, Разработка ПО, Производственная практика\Проекты\Perfomans monitor\Perfomans monitor\obj\Debug\Performance monitor.pdb
